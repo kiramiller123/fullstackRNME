@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kiramiller123/fullstackRNME/issues"
   },
-  "homepage": "https://github.com/kiramiller123/fullstackRNME"
+  "homepage": "https://github.com/kiramiller123/fullstackRNME",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
