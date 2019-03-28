@@ -1,0 +1,19 @@
+{
+  "name": "fulljs",
+  "version": "1.0.0",
+  "description": "Learning Fullstack JS dev: MongoDB, Node, React, Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiramiller123/fullstackRNME.git"
+  },
+  "author": "Kira",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/kiramiller123/fullstackRNME/issues"
+  },
+  "homepage": "https://github.com/kiramiller123/fullstackRNME"
+}
