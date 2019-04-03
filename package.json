@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/kiramiller123/fullstackRNME",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "mongodb": "^3.2.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
   }
 }
